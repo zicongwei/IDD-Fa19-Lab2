@@ -1,35 +1,40 @@
 # Digital Timer
  
-Include your responses to the bold questions below. Include snippets of code that explain what you did. Deliverables are due next Tuesday. Post your lab reports as README.md pages on your GitHub, and post a link to that on your main class hub page.
-
 ## Part A. Solder your LCD panel
-
-**Take a picture of your soldered panel and add it here!**
+![Image of SolderLCD](https://github.com/zicongwei/IDD-Fa19-Lab2/blob/master/sold.jpeg)
 
 ## Part B. Writing to the LCD
  
-**a. What voltage level do you need to power your display?**
+**a. What voltage level do you need to power your display?**    
+5v
 
-**b. What voltage level do you need to power the display backlight?**
+**b. What voltage level do you need to power the display backlight?**  
+3.3v
    
-**c. What was one mistake you made when wiring up the display? How did you fix it?**
+**c. What was one mistake you made when wiring up the display? How did you fix it?**  
+1) At first I forgot to connect the breadboard vertically, so I used 4 jumpers to wire them up.
+2) My LCD is broken, so it could not show "Hello World". By simply using another LCD without changing any wire, the whole system works. 
 
-**d. What line of code do you need to change to make it flash your name instead of "Hello World"?**
- 
-**e. Include a copy of your Lowly Multimeter code in your lab write-up.**
+**d. What line of code do you need to change to make it flash your name instead of "Hello World"?**    
+`lcd.print("hello, world!");` to `lcd.print("hello, Irene!");`
 
+**e. Include a copy of your Lowly Multimeter code in your lab write-up.**  
+[link to Lowly Multimer code!](https://github.com/zicongwei/IDD-Fa19-Lab2/blob/master/voltmeter.ino)
 
 ## Part C. Using a time-based digital sensor
 
-**Upload a video of your working rotary encoder here.**
+**Upload a video of your working rotary encoder here.**  
 
+[rotary encoder video!](https://youtu.be/nD4gTdD3ntg)
 
 ## Part D. Make your Arduino sing!
 
-**a. How would you change the code to make the song play twice as fast?**
- 
-**b. What song is playing?**
-
+**a. How would you change the code to make the song play twice as fast?**   
+change the noteDuration  
+`int noteDuration = 1000 / noteDurations[thisNote]/2;`
+  
+**b. What song is playing?**  
+Star Wars
 
 ## Part E. Make your own timer
 
