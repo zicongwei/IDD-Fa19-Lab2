@@ -39,5 +39,4 @@ Star Wars
 ## Part E. Make your own timer
 
 **a. Make a short video showing how your timer works, and what happens when time is up!**
-
-**b. Post a link to the completed lab report your class hub GitHub repo.**
+[My Timer!](https://youtu.be/-ktWo4iBLG8)
