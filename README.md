@@ -38,5 +38,5 @@ Star Wars
 
 ## Part E. Make your own timer
 
-**a. Make a short video showing how your timer works, and what happens when time is up!**
+**a. Make a short video showing how your timer works, and what happens when time is up!**  
 [My Timer!](https://youtu.be/-ktWo4iBLG8)
