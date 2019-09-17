@@ -40,3 +40,16 @@ Star Wars
 
 **a. Make a short video showing how your timer works, and what happens when time is up!**  
 [My Timer!](https://youtu.be/-ktWo4iBLG8)
+
+** Pre Lab **
+1. Use a timer to time people’s workout times. 
+2. Timer for cooking, when the food is ready, it will sings.
+3. Pressing the button in a certain time, as fast as possible, to light up more LEDs.
+4. A game: In a certain time, remember LEDs lightening sequence, and try to copy the order by pressing the buttons.
+5. Two player press buttons, like a running game, and measure the time.
+6. A CD player shuffeling songs,  people can switch songs in a selected times.
+7. An sleep alarm with soft music, set up before people go to bed.
+8. Timer for counting down the time wait for taking elevator and taking stairs.
+9. Alarm the teacher's time for the end of class.
+10. Game: Trying to remember a memlody of a song in a short time. 
+
